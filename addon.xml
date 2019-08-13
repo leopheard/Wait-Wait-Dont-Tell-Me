@@ -22,7 +22,7 @@
     <website>https://www.npr.org/podcasts/344098539/wait-wait-don-t-tell-me</website>
     <audio_guide></audio_guide>
         	<assets>
-			<icon>resources/media/icon.png</icon>
+			<icon>resources/media/icon.jpg</icon>
 			<fanart>resources/media/fanart.png</fanart>
 			<screenshot>resources/media/screen1.jpeg</screenshot>
 			<screenshot>resources/media/screen2.jpeg</screenshot>
